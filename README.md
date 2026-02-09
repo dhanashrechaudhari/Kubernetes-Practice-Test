@@ -257,7 +257,7 @@ You are given an application image that runs a web server. Perform the following
 * Screenshot of the browser output
 
 ### Ans
-* Deployment name = ```taskdeployment.yml```
+* Deployment name = ```task-webapp```
 * Service type used = ```NodePort```
 * URL used to access the application = ```52.53.226.203:30294```
 * Screenshot of the browser output 
